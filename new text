@@ -5,5 +5,16 @@ class HelloWorld {
     public static void main(String[] args) {
         System.out.println("creating a new pipeline"); 
     }
-    
+    public static void main(String[] args) {
+        System.out.println("pipeline 2"); 
+    }
+    public static void main(String[] args) {
+        System.out.println("pipeline3"); 
+    }
+    public static void main(String[] args) {
+        System.out.println("pipeline4"); 
+    }
+    public static void main(String[] args) {
+        System.out.println("pipeline5"); 
+    }
 }
